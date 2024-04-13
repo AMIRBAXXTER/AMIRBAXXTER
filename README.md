@@ -6,7 +6,7 @@ AMIRBAXXTER = {
     'location': 'iran/alborz/fardis',
 }
 ```
-## i worked with this technologies
+## I worked with these technologies
 <div markdown="1" style='background-color: red;'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60">
