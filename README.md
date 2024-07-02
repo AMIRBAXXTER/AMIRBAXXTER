@@ -12,7 +12,7 @@ AMIRBAXXTER = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="60">
   <img
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" width "60">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker.svg" width "60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60">
