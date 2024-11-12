@@ -14,12 +14,8 @@ I'm a passionate developer from Iran, Alborz, Fardis. Here are the technologies 
 
 <table>
   <tr>
-    <td><strong>Technology</strong></td>
-    <td><strong>Icon</strong></td>
-  </tr>
-  <tr>
     <td>Python</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80"/></td>
   </tr>
   <tr>
     <td>Django</td>
