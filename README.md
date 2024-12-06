@@ -1,14 +1,14 @@
 ## 🚀 About Me
 ```python
 AMIRBAXXTER = {
-    'first_name': 'amirmasood',
-    'last_name': 'pormahdi',
-    'date_of_birth': '1376/12/04',
-    'location': 'iran/alborz/fardis',
+    'First_name': 'Amir Masood',
+    'Last_name': 'Pormahdi',
+    'Date_of_birth': '1376/12/04',
+    'Location': 'Iran/Alborz/Fardis',
 }
 ```
 ### Hi there, I'm Amirmasood Pormahdi 👋
-I'm a passionate developer from Iran, Alborz, Fardis. Here are the technologies I work with:
+I'm a motivated Back-End developer. Here are the technologies I work with:
 
 🛠️ Technologies & Tools
 <div>
